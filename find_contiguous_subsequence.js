@@ -14,7 +14,7 @@ function findSubsequenceM2(t,s){
     return i === s.length;   // consumed all of s
 }
 
-// method 1 brueforcelike
+// method 1 bruteforcelike
 function findSubsequence(t,s){
     let isSubsequence = true;
 
