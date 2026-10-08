@@ -26,3 +26,5 @@ function targetFromSorted(nums, target){
 console.log(targetFromSorted([1, 3, 5, 8, 11], 13))
 console.log(targetFromSorted([1, 3, 5, 8, 11], 12))
 console.log(targetFromSorted([1, 3, 5, 8, 11], 100))
+
+// trigger coderabbit
